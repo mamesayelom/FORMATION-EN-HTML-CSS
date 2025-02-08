@@ -1,0 +1,14 @@
+.box {
+    width: 200px; /* Largeur du contenu */
+    height: 100px; /* Hauteur du contenu */
+    padding: 20px; /* Remplissage interne */
+    border: 5px solid black; /* Bordure */
+    margin: 30px; /* Marge extérieure */
+    background-color: lightblue;
+    /* box-sizing: border-box; */
+}
+
+.container {
+    background-color: lightgray;
+    padding: 10px;
+}
