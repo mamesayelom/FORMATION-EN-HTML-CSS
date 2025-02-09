@@ -1,0 +1,45 @@
+.container{
+    height: 300px;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.item{
+    background-color: aliceblue;
+    border: 1px solid black;
+    
+}
+
+.order1{
+    order: 1;
+}
+.order2{
+    order: 2;
+}
+.order3{
+    order: 3;
+}
+.order4{
+    order: 4;
+}
+
+.flex-grow1{
+    /* flex-grow: 1; */
+    flex-basis: 600px;
+
+}
+.flex-grow2{
+    flex-grow: 1;
+
+}
+.flex-grow3{
+    flex-grow: 1;
+
+}
+.flex-grow4{
+    flex-grow: 1;
+
+}
